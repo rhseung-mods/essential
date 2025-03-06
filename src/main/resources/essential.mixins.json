@@ -3,7 +3,6 @@
 	"package": "com.rhseung.essential.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

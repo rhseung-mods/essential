@@ -21,6 +21,12 @@
 				"adapter": "kotlin"
 			}
 		],
+		"client": [
+			{
+				"value": "com.rhseung.essential.EssentialClient",
+				"adapter": "kotlin"
+			}
+		],
 		"fabric-datagen": [
 			{
 				"value": "com.rhseung.essential.EssentialDataGenerator",
